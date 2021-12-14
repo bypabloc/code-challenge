@@ -36,5 +36,5 @@ Por ejemplo, <code>121</code> es un palíndromo mientras que <code>123</code> no
 
 ### Solución:
 
-- [JavaScript](/leetcode/palindrome-number/js.md)
-- [Python](/leetcode/palindrome-number/py.md)
+- [JavaScript](/leetcode/9.palindrome-number/js.md)
+- [Python](/leetcode/9.palindrome-number/py.md)

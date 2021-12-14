@@ -38,5 +38,5 @@ Puede devolver la respuesta en cualquier orden.
 
 ### Solución:
 
-- [JavaScript](/leetcode/two-sum/js.md)
-- [Python](/leetcode/two-sum/py.md)
+- [JavaScript](/leetcode/1.two-sum/js.md)
+- [Python](/leetcode/1.two-sum/py.md)
