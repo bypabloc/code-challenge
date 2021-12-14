@@ -61,5 +61,5 @@ Dado un número romano, conviértalo en un número entero.
 
 ### Solución:
 
-- [JavaScript](/leetcode/13.roman-to-Integer/js.md)
-- [Python](/leetcode/13.roman-to-Integer/py.md)
+- [JavaScript](/leetcode/00013.roman-to-Integer/js.md)
+- [Python](/leetcode/00013.roman-to-Integer/py.md)
